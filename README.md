@@ -1,6 +1,6 @@
 # Hi there, I'm Damir!
 
----
+
 # Technical Stack
 <p align="left">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" />  
